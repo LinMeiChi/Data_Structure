@@ -10,4 +10,4 @@ Quick_Sort.py  👉 快速排序法。
 Insert_Sort.py 👉 插入排序法。                                                                                                                                                     
 Select_Sort.py 👉 選擇排序法。                                                                                                                                                     
 Heap_Sort.py  👉 堆積排序法，分為最大堆積、最小堆積。                                                                                                                                 
-
+Merge_Sort.py 👉 堆積排序法，採用遞迴合併排序法。
