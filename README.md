@@ -5,9 +5,9 @@
 [FibMonaccianSearch.py](https://github.com/LinMeiChi/Data_Structure/blob/main/FibMonaccianSearch.py) 👉 費氏數列。                                                                 
                                                                                                                                                                                    
 ⇠ 排序法 ⇢                                                                                                                                                                         
-Bubble_Sort.py 👉 氣泡排序法。                                                                                                                                                     
-Quick_Sort.py  👉 快速排序法。                                                                                                                                                 
-Insert_Sort.py 👉 插入排序法。                                                                                                                                                     
-Select_Sort.py 👉 選擇排序法。                                                                                                                                                     
-Heap_Sort.py  👉 堆積排序法，分為最大堆積、最小堆積。                                                                                                                                 
-Merge_Sort.py 👉 堆積排序法，採用遞迴合併排序法。
+[Bubble_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Bubble_Sort.py) 👉 氣泡排序法。                                                                               
+[Quick_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Quick_Sort.py) 👉 快速排序法。                                                                                 
+[Insert_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Insert_Sort.py) 👉 插入排序法。                                                                               
+[Select_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Select_Sort.py) 👉 選擇排序法。                                                                               
+[Heap_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Heap_Sort.py) 👉 堆積排序法，分為最大堆積、最小堆積。                                                           
+[Merge_Sort.py](https://github.com/LinMeiChi/Data_Structure/blob/main/Merge_Sort.py) 👉 堆積排序法，採用遞迴合併排序法。
